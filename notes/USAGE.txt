@@ -1,0 +1,4 @@
+USAGE AutoCAD-2026-Free
+autocad download. dwg. autolisp.
+Extract. Run. See readme.
+Stamp rev-w9sn0u-20261028
